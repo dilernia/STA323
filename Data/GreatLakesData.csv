@@ -1,0 +1,130 @@
+﻿ID,Location,Owner,Time (EDT),Water (°F),Wind (kts/°),Direction,Waves (ft),Lake,Date
+45002,North Lake Michigan,NOAA-NDBC,9:50 AM,64.8,17.5, NNE,4.3,Lake Michigan,9/22/2021
+45007,South Lake Michigan,NOAA-NDBC,9:50 AM,70.3,23.3, NNE,6.9,Lake Michigan,9/22/2021
+45013,Milwaukee Atwater Park,UW-Milwaukee,9:30 AM,63.6,21.2, N,7.4,Lake Michigan,9/22/2021
+45014,South Green Bay,UW-Milwaukee,9:30 AM,64.2,19.2, NNE,2.6,Lake Michigan,9/22/2021
+45020,Grand Traverse Bay South,NMC,1:10 PM,75.9,0, SW,0,Lake Michigan,9/22/2021
+45022,Little Traverse Bay,UMich-CIGLR,10:00 AM,67.3,12.7, NNE,1.9,Lake Michigan,9/22/2021
+45024,Ludington,UMich-CIGLR,10:00 AM,68.1,18.4, NE,3.9,Lake Michigan,9/22/2021
+45026,Cook Nuclear Plant,LimnoTech,9:50 AM,59.1,19.1,.,4.8,Lake Michigan,9/22/2021
+45029,Port Sheldon,LimnoTech,9:50 AM,69.5,17, N,3.1,Lake Michigan,9/22/2021
+45161,Muskegon,NOAA-GLERL,9:40 AM,.,18, NNE,.,Lake Michigan,9/22/2021
+45168,South Haven,LimnoTech,9:50 AM,68.9,17.7, NNW,4.1,Lake Michigan,9/22/2021
+45170,Michigan City Buoy,IISG,9:50 AM,.,24.2, NNE,5.4,Lake Michigan,9/22/2021
+45174,Wilmette,IISG,9:50 AM,.,., NNW,.,Lake Michigan,9/22/2021
+45183,Sleeping Bear,UW-Milwaukee,9:30 AM,66.6,19.4, NNE,2.7,Lake Michigan,9/22/2021
+45186,Waukegan,UIUC,7:10 AM,63.9,16,.,5.3,Lake Michigan,9/22/2021
+45187,Winthrop,UIUC,8:00 AM,60.6,16.8, N,6.1,Lake Michigan,9/22/2021
+45198,Chicago Buoy,IISG,9:50 AM,64,22.5, SSW,0.7,Lake Michigan,9/22/2021
+GVSU1,Muskegon Lake Buoy,Grand Valley State University,9:00 AM,48.8,10.7, ESE,.,Lake Michigan,9/22/2021
+45001,Mid Superior,NOAA-NDBC,10:00 AM,55,0,.,.,Lake Superior,9/22/2021
+45004,East Superior,NOAA-NDBC,9:50 AM,58.6,11.7, NE,1.6,Lake Superior,9/22/2021
+45006,West Superior,NOAA-NDBC,9:50 AM,60.1,3.9, NNE,0.7,Lake Superior,9/22/2021
+45023,North Entry,MTU-GLRC,9:55 AM,64.8,0.5, N,0.7,Lake Superior,9/22/2021
+45025,South Entry Buoy,MTU-GLRC,10:00 AM,61.9,4.7, NNE,1,Lake Superior,9/22/2021
+45027,McQuade Harbor,UMinn-Duluth,9:50 AM,61.6,1.9, S,0.3,Lake Superior,9/22/2021
+45028,Duluth,UMinn-Duluth,9:50 AM,62.9,5.8, SW,1,Lake Superior,9/22/2021
+45136,Slate Island,Env CA,9:00 AM,56.8,3.9, N,.,Lake Superior,9/22/2021
+45171,Granite Island,NMU,7:00 PM,44,3.1, NE,4.9,Lake Superior,9/22/2021
+45173,Munising,NMU,3:00 PM,45.1,11.3,.,0,Lake Superior,9/22/2021
+45180,Isle Royale East,CDIP,9:56 AM,55.9,.,.,0.7,Lake Superior,9/22/2021
+SPOT-1041,SPOT-1041 McGinty Cove (Isle Royale National Park),MTU,9:31 AM,.,3.9, NE,0.5,Lake Superior,9/22/2021
+SPOT-1127,SPOT-1127 Granite Island,MTU,9:21 AM,.,14, NNE,3,Lake Superior,9/22/2021
+SPOT-1179,SPOT-1179 Grand Portal,MTU,9:37 AM,.,20.2, NNE,4.2,Lake Superior,9/22/2021
+SPOT-1980,SPOT-1980 Saginaw Point (Isle Royale National Park),MTU,9:29 AM,.,1.6, ENE,0.6,Lake Superior,9/22/2021
+SPOT-0592,"SPOT-0592 near Gay, Michigan",MTU,10:08 AM,62,3.1, E,0.8,Lake Superior,9/22/2021
+45005,West Lake Erie,NOAA-NDBC,10:00 AM,72,27.2, N,.,Lake Erie,9/22/2021
+45132,Northern Lake Erie,Env CA,10:00 AM,70.2,17.5, NNE,3,Lake Erie,9/22/2021
+45142,Port Colborne,Env CA,10:00 AM,70.5,13.6, SSE,.,Lake Erie,9/22/2021
+45164,Cleveland DO,LimnoTech,9:00 AM,72.1,.,.,4.9,Lake Erie,9/22/2021
+45165,Toledo Water Intake,LimnoTech,9:50 AM,71.5,21.3, NNW,4,Lake Erie,9/22/2021
+45167,Erie Nearshore,RSC,9:40 AM,.,18.1, N,1.5,Lake Erie,9/22/2021
+45169,Cleveland Wind,LimnoTech,4:30 PM,59.6,5.3, ESE,0.4,Lake Erie,9/22/2021
+45176,Cleveland Intake Crib,LimnoTech,9:50 AM,72.6,13.2, NE,4.3,Lake Erie,9/22/2021
+45196,"Rocky River, OH",LimnoTech,9:40 AM,72.3,17.5, NW,5.8,Lake Erie,9/22/2021
+45197,"Euclid, OH",LimnoTech,9:30 AM,72.2,8.9, ENE,4.9,Lake Erie,9/22/2021
+ESF3,Dunkirk,SUNY-ESF,9:50 AM,.,16.7,.,3,Lake Erie,9/22/2021
+WE13,Western Erie 13,NOAA-GLERL,10:31 AM,78.3,7, SW,.,Lake Erie,9/22/2021
+WE2,Western Erie 2,NOAA-GLERL,9:46 AM,71.3,23.1, NNW,.,Lake Erie,9/22/2021
+WE4,Western Erie 4,NOAA-GLERL,9:46 AM,71.5,23.4, SSE,.,Lake Erie,9/22/2021
+WE8,Western Erie 8,NOAA-GLERL,9:46 AM,71.4,18.2, NNW,.,Lake Erie,9/22/2021
+OSUGI,Gibralter Island,OSU-Stone,9:45 AM,71.6,24.1, N,.,Lake Erie,9/22/2021
+SPOT-0648,SPOT-0648 WE13,UMich-CIGLR,3:21 AM,74.7,6.2, NE,1.1,Lake Erie,9/22/2021
+SPOT-1413,SPOT-1413 West Sister Island,UMich-CIGLR,9:37 AM,71.3,16.3, NNW,3.7,Lake Erie,9/22/2021
+UTLCP,Little Cedar Point,UToledo,9:40 AM,70.2,18.9, NNW,.,Lake Erie,9/22/2021
+uwss-raeon2-21,UWSS RAEON Buoy 2 2021 relocation,UWindsor,10:00 AM,72.3,18.3, WNW,3.3,Lake Erie,9/22/2021
+uwss-raeon3-21,UWSS RAEON Buoy 3 2021 relocation,UWindsor,10:00 AM,72.5,10.8, N,2.1,Lake Erie,9/22/2021
+uwraeon2,UWindsor RAEON Buoy 2,UWindsor,11:40 AM,60.2,0.3, E,0,Lake Erie,9/22/2021
+45003,North Lake Huron,NOAA-NDBC,10:00 AM,61.9,21.4, NNE,.,Lake Huron,9/22/2021
+45008,South Central Lake Huron,NOAA-NDBC,10:00 AM,64.9,23.3, N,.,Lake Huron,9/22/2021
+45143,South Georgian Bay,Env CA,9:00 AM,65.7,21.4, NE,5.2,Lake Huron,9/22/2021
+45149,Southern Lake Huron,Env CA,9:00 AM,68.5,19.4, NNE,6.2,Lake Huron,9/22/2021
+45154,North Channel East,Env CA,10:00 AM,62.8,15.6, NNE,1.6,Lake Huron,9/22/2021
+45162,Alpena Thunder Bay,NOAA-GLERL,10:00 AM,59.3,18.6, NNE,3,Lake Huron,9/22/2021
+45163,Saginaw Bay,NOAA-GLERL,10:00 AM,.,19.8, N,3.1,Lake Huron,9/22/2021
+45012,East Ontario,NOAA-NDBC,10:00 AM,69.6,13.6, SE,.,Lake Ontario,9/22/2021
+45135,Prince Edward Pt,Env CA,10:00 AM,67.8,13.6, SE,2.6,Lake Ontario,9/22/2021
+45139,West Lake Ontario,Env CA,10:00 AM,66.7,13.6, N,1.6,Lake Ontario,9/22/2021
+45159,Northwest Ontario,Env CA,10:00 AM,68.5,7.8, SSE,2,Lake Ontario,9/22/2021
+45189,Oswego,45189,10:00 AM,.,13.2, SSE,.,Lake Ontario,9/22/2021
+45190,Sodus Point Nearshore Monitoring Buoy,SUNY-ESF,10:00 AM,.,14, SSW,.,Lake Ontario,9/22/2021
+45191,Oak Ochard Nearshore Monitoring Buoy,SUNY-ESF,10:00 AM,65.1,6.4, ESE,.,Lake Ontario,9/22/2021
+ESF2,Sodus Bay South,SUNY-ESF,6:30 PM,66.9,4.9,.,.,Lake Ontario,9/22/2021
+ESF5,Sodus Bay Center,SUNY-ESF,7:00 AM,59.4,.,.,.,Lake Ontario,9/22/2021
+OMOECC_O1,Western Ontario,Ontario Ministry,5:30 PM,37.9,.,.,.,Lake Ontario,9/22/2021
+OMOECC_O2,Western Ontario 2,Ontario Ministry,1:30 AM,32.2,.,.,.,Lake Ontario,9/22/2021
+45002,North Lake Michigan,NOAA-NDBC,10:00 AM,53.2,3.9, NNE,.,Lake Michigan,11/9/2021
+45007,South Lake Michigan,NOAA-NDBC,10:00 AM,55.2,13.6, NE,.,Lake Michigan,11/9/2021
+45161,Muskegon,NOAA-GLERL,10:00 AM,.,6.6, NNE,0.8,Lake Michigan,11/9/2021
+45175,Mackinac Straits West,MTU-GLRC,9:55 AM,52.3,4.9,.,0.6,Lake Michigan,11/9/2021
+45184,Green Bay East,UW-Milwaukee,8:00 PM,75.4,0, N,.,Lake Michigan,11/9/2021
+45185,Green Bay West,UW-Milwaukee,10:31 PM,68.5,8.3, ENE,.,Lake Michigan,11/9/2021
+GVSU1,Muskegon Lake Buoy,Grand Valley State University,9:00 AM,48.8,10.7, ESE,.,Lake Michigan,11/9/2021
+PA-DEP-1538,PA-DEP-1538,,10:40 AM,42.4,.,.,.,Lake Michigan,11/9/2021
+SPOT-0700,SPOT-0700 Copper Harbor,MTU,10:19 AM,47.9,2.3, NW,0.9,Lake Michigan,11/9/2021
+SPOT-1360,SPOT-1360 Marquette,Superior Watershed Partnership,10:00 AM,52,3.9, NNW,1,Lake Michigan,11/9/2021
+SPOT-1361,SPOT-1361 Grand Marais,UMich-CIGLR,10:16 AM,60.4,8.6, S,0.6,Lake Michigan,11/9/2021
+SPOT-1362,SPOT-1362 Munising,UMich-CIGLR,9:05 AM,60,10.9, S,0.7,Lake Michigan,11/9/2021
+SPOT-1384,"SPOT-1384 Washington Island, Green Bay",MTU,9:33 AM,.,5.4, NNW,1.1,Lake Michigan,11/9/2021
+SPOT-1563,SPOT-1563 Muskegon (near M20),UMich-CIGLR,9:50 AM,54.6,10.9, ENE,1.2,Lake Michigan,11/9/2021
+45025,South Entry Buoy,MTU-GLRC,10:20 AM,51.5,7.2, WNW,0.8,Lake Superior,11/9/2021
+45136,Slate Island,Env CA,9:00 AM,50.5,9.7, SW,1.6,Lake Superior,11/9/2021
+45171,Granite Island,NMU,7:00 PM,44,3.1, NE,4.9,Lake Superior,11/9/2021
+45172,Grand Marais,NMU,10:20 PM,53.6,12.4, SW,4.7,Lake Superior,11/9/2021
+45173,Munising,NMU,3:00 PM,45.1,11.3,.,0,Lake Superior,11/9/2021
+45179,Stannard Rock,SWP,10:01 PM,40.2,.,.,7.4,Lake Superior,11/9/2021
+SPOT-1041,SPOT-1041 McGinty Cove (Isle Royale National Park),MTU,9:31 AM,.,10.1, SW,1.5,Lake Superior,11/9/2021
+SPOT-1127,SPOT-1127 Granite Island,MTU,9:48 AM,.,10.1, WNW,1.2,Lake Superior,11/9/2021
+SPOT-1179,SPOT-1179 Grand Portal,MTU,9:37 AM,.,6.2, NW,1.9,Lake Superior,11/9/2021
+SPOT-1980,SPOT-1980 Saginaw Point (Isle Royale National Park),MTU,9:29 AM,.,6.2, SW,0.7,Lake Superior,11/9/2021
+STDM4,Stannard Rock,NDBC,10:00 AM,.,15, W,.,Lake Superior,11/9/2021
+SPOT-0592,"SPOT-0592 near Gay, Michigan",MTU,10:08 AM,45.9,6.2, SSW,0.7,Lake Superior,11/9/2021
+45005,West Lake Erie,NOAA-NDBC,10:00 AM,53.8,3.9, W,.,Lake Erie,11/9/2021
+45132,Northern Lake Erie,Env CA,10:00 AM,56.1,3.9, ENE,1,Lake Erie,11/9/2021
+45142,Port Colborne,Env CA,10:00 AM,54.5,1.9, ENE,1.3,Lake Erie,11/9/2021
+45164,Cleveland DO,LimnoTech,10:00 AM,57.4,6.4, W,1,Lake Erie,11/9/2021
+45165,Toledo Water Intake,LimnoTech,3:40 PM,60.7,9.7, W,1,Lake Erie,11/9/2021
+45169,Cleveland Wind,LimnoTech,4:30 PM,59.6,5.3, ESE,0.4,Lake Erie,11/9/2021
+45176,Cleveland Intake Crib,LimnoTech,10:10 AM,54.4,6.4, WNW,0.9,Lake Erie,11/9/2021
+45196,"Rocky River, OH",LimnoTech,9:50 AM,54.4,5.5, S,0,Lake Erie,11/9/2021
+45197,"Euclid, OH",LimnoTech,9:50 AM,55.1,7.4, WNW,1.1,Lake Erie,11/9/2021
+ESF3,Dunkirk,SUNY-ESF,12:30 PM,.,5.8, WNW,1,Lake Erie,11/9/2021
+WE13,Western Erie 13,NOAA-GLERL,10:31 AM,78.3,7, SW,.,Lake Erie,11/9/2021
+uwss-raeon1,UWSS RAEON Buoy 1,UWindsor,4:40 PM,76.8,9.9, SSE,0.8,Lake Erie,11/9/2021
+uwss-raeon2-21,UWSS RAEON Buoy 2 2021 relocation,UWindsor,10:20 AM,48.8,1.1, ESE,0,Lake Erie,11/9/2021
+uwraeon2,UWindsor RAEON Buoy 2,UWindsor,11:40 AM,60.2,0.3, E,0,Lake Erie,11/9/2021
+uwraeon3,UWindsor RAEON Buoy 3,UWindsor,7:20 PM,78.1,10.6, NW,0.5,Lake Erie,11/9/2021
+45003,North Lake Huron,NOAA-NDBC,10:00 AM,51.1,5.8, NNE,.,Lake Huron,11/9/2021
+45008,South Central Lake Huron,NOAA-NDBC,10:00 AM,53.1,11.7, NE,.,Lake Huron,11/9/2021
+45143,South Georgian Bay,Env CA,9:00 AM,52.7,11.7, NNE,.,Lake Huron,11/9/2021
+45149,Southern Lake Huron,Env CA,9:00 AM,54.3,7.8, NE,3.3,Lake Huron,11/9/2021
+45154,North Channel East,Env CA,10:00 AM,50.7,5.8, NE,0.7,Lake Huron,11/9/2021
+45163,Saginaw Bay,NOAA-GLERL,10:00 PM,.,8.4, SSW,0.8,Lake Huron,11/9/2021
+45012,East Ontario,NOAA-NDBC,10:00 AM,54,7.8, WNW,.,Lake Ontario,11/9/2021
+45135,Prince Edward Pt,Env CA,10:00 AM,52.5,5.8, WNW,1.3,Lake Ontario,11/9/2021
+45139,West Lake Ontario,Env CA,10:00 AM,53.4,7.8, N,0.3,Lake Ontario,11/9/2021
+45159,Northwest Ontario,Env CA,10:00 AM,.,1.9, N,0.3,Lake Ontario,11/9/2021
+ESF2,Sodus Bay South,SUNY-ESF,6:30 PM,66.9,4.9,.,.,Lake Ontario,11/9/2021
+ESF5,Sodus Bay Center,SUNY-ESF,7:00 AM,59.4,.,.,.,Lake Ontario,11/9/2021
+OMOECC_O1,Western Ontario,Ontario Ministry,5:30 PM,37.9,.,.,.,Lake Ontario,11/9/2021
+OMOECC_O2,Western Ontario 2,Ontario Ministry,1:30 AM,32.2,.,.,.,Lake Ontario,11/9/2021
