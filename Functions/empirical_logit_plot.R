@@ -8,7 +8,7 @@ empirical_logit_plot <- function(modelFit,
   response <- colnames(myData)[1]
   
   # Reference category for the response variable
-  refCat <- modelFit$data[[response]][modelFit$y][1]
+  refCat <- modelFit$data[[response]][as.logical(modelFit$y)][1]
   
   # Making response a dummy variable
   myData[[response]] <- modelFit[["y"]]
