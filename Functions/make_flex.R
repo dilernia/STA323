@@ -8,9 +8,8 @@ make_flex <- function(myData, ndigits = 2, caption = NULL) {
   myFlex <- myData %>% 
     flextable::flextable() %>% 
     flextable::colformat_double(digits = ndigits) %>% 
-    flextable::fit_to_width(7.5) %>%
     flextable::autofit() %>%
-    flextable::width(width = dim(.)$widths*7.5 /(flextable::flextable_dim(.)$widths))
+    flextable::fit_to_width(7.5) 
   
     if(!exists("tbl_counter")) {
   assign("tbl_counter", 
