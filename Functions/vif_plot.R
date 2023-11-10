@@ -25,7 +25,8 @@ vif_plot <- function(modFit) {
     scale_x_continuous(limits = c(0, max(vifs)*1.1),
                        expand = expansion(mult = c(0, 0.10))) +
     geom_point(size = 3, color = "steelblue") +
-    labs(title = ggTitle, x = xLab)
+    labs(title = ggTitle, x = xLab,
+         caption = paste0(xLab, " values calculated via the car package: https://search.r-project.org/CRAN/refmans/car/html/vif.html"))
   
 return(suppressWarnings(print(vifGG)))
 }
