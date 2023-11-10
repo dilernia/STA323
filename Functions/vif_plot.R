@@ -5,7 +5,12 @@ vif_plot <- function(modFit) {
   
   if("GVIF^(1/(2*Df))" %in% colnames(vifs)) {
     vifs <- vifs[, "GVIF^(1/(2*Df))"]
-  }
+    ggTitle <- "Generalized variance inflation factors"
+    xLab <- "GVIF"
+  } else {
+    ggTitle <- "Variance inflation factors"
+    xLab <- "VIF"
+    }
   
   preds <- names(vifs)
   
@@ -20,7 +25,7 @@ vif_plot <- function(modFit) {
     scale_x_continuous(limits = c(0, max(vifs)*1.1),
                        expand = expansion(mult = c(0, 0.10))) +
     geom_point(size = 3, color = "steelblue") +
-    labs(title = "Variance inflation values")
+    labs(title = ggTitle, x = xLab)
   
 return(suppressWarnings(print(vifGG)))
 }
